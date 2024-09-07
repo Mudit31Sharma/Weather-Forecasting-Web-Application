@@ -3,5 +3,6 @@
  weather enthusiasts alike. This project will show the concept of a Weather API server and how it can be used to
  show the current weather of a city. It will also provide an overview of the different types of weather APIs available
  and the advantages of using them.
-Link Provided to the Weather Forecasting Web Application :-
-https://weatherforecastingbyms.netlify.app/
+ 
+ Link Provided to the Weather Forecasting Web Application :-
+ https://weatherforecastingbyms.netlify.app/
