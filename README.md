@@ -1,14 +1,22 @@
-Functionalities
-Weather forecast over 3 day
-Weather (clouds / sun / rain / ...)
-Temperature, Humidity
-Sunrise, Sunset
-Display weather forecast from a city name
-Search a city via the input in the form
-Search a city via the URL. Useful if you want to send a link to someone.
-Display weather forecast from the user geolocation.
-Display a custom gradient background according to the temperature.
-URL on the city name to Google Map.
+# WeatherApp
+
+A web application dedicated to displaying OpenWeatherMap weather forecasts.
+
+
+
+## Functionalities
+
+- Weather forecast over 3 day
+    - Weather (clouds / sun / rain / ...)
+    - Temperature, Humidity
+    - Sunrise, Sunset
+- Display weather forecast from a city name
+    - Search a city via the input in the form
+    - Search a city via the URL. Useful if you want to send a link to someone.
+- Display weather forecast from the user geolocation
+- Display a custom gradient background according to the temperature
+- URL on the city name to Google Map
+- Responsive application
 
  Weather API servers are a great way to get real-time weather data for any city. It provides accurate, reliable and
  up-to-date information on the current weather conditions. They are a great tool for businesses, developers, and
